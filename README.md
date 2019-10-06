@@ -1,7 +1,7 @@
 # Design-Implementation-1
 My First Design Implementation in the series
 
-##How to Run
+## How to Run
 1. from the CLI of your OS run and run `flutter create UIMock`.
 2.delete the lib directory.
 3.copy the lib and assets directories from the repo your project.
